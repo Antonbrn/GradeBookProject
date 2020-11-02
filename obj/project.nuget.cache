@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+dQ9jMF/9HxmrGGUiLa4vfiOERYRSqyvyWsppUz+Iyz3mNRDTsJVZ3BjmghZu9TwLlvu6LbVgf2Api2C3dNoRw==",
+  "dgSpecHash": "55bsc2rrXjKb4vfdoGZD+hsNeqr4x4NUn/NwmQz/36mKtRtMiLYCq/KoqlrcpjUkcYAZtpr94DAVZ/BWOJkirg==",
   "success": true,
-  "projectFilePath": "/Users/antonbrannstrom/Projects/GradeBook/GradeBook.csproj",
+  "projectFilePath": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
