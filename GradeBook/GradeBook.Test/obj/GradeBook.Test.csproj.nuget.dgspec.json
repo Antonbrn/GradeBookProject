@@ -14,7 +14,7 @@
         "outputPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/antonbrannstrom/.config/NuGet/NuGet.Config"
+          "/Users/antonbrannstrom/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -64,7 +64,7 @@
         "outputPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/antonbrannstrom/.config/NuGet/NuGet.Config"
+          "/Users/antonbrannstrom/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -22,7 +22,7 @@ namespace GradeBook
             }
         }
         
-        public Statistics GetGrades()
+        public Statistics GetStatistics()
         {
             var result = new Statistics();
             result.Average = 0;
