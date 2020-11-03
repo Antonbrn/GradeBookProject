@@ -42,6 +42,6 @@ namespace GradeBook
 
         //Field
         private List<double> grades;
-        private string Name;
+        public string Name;
     }
 }

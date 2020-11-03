@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.Test/GradeBook.Test.csproj": {}
+    "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.Test\\GradeBook.Test.csproj": {}
   },
   "projects": {
-    "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.csproj": {
+    "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.csproj",
-        "packagesPath": "/Users/antonbrannstrom/.nuget/packages/",
-        "outputPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/obj/",
+        "projectPath": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.csproj",
+        "packagesPath": "C:\\Users\\joach\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/antonbrannstrom/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\joach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,33 +52,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.Test/GradeBook.Test.csproj": {
+    "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.Test\\GradeBook.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.Test/GradeBook.Test.csproj",
+        "projectUniqueName": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.Test\\GradeBook.Test.csproj",
         "projectName": "GradeBook.Test",
-        "projectPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.Test/GradeBook.Test.csproj",
-        "packagesPath": "/Users/antonbrannstrom/.nuget/packages/",
-        "outputPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.Test/obj/",
+        "projectPath": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.Test\\GradeBook.Test.csproj",
+        "packagesPath": "C:\\Users\\joach\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/antonbrannstrom/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\joach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.csproj": {
-                "projectPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.csproj"
+              "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.csproj": {
+                "projectPath": "C:\\Users\\joach\\source\\repos\\GradeBookProject\\GradeBook\\GradeBook.csproj"
               }
             }
           }
@@ -122,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
