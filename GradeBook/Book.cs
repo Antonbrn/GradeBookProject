@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GradeBook
 {
-    class Book
+    public class Book
     {
         //Constructor
         public Book(string name){

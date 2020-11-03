@@ -5,4 +5,22 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="GradeBook.Test\GradeBookTest.cs" />
+    <Compile Remove="GradeBook.Test\GradeBookTest.cs" />
+    <Compile Remove="GradeBook.Test\GradeBookTest.cs" />
+    <Compile Remove="GradeBook.Test\GradeBookTest.cs" />
+    <Compile Remove="GradeBook.Test\GradeBookTest.cs" />
+    <Compile Remove="GradeBook.Test\GradeBookTest.cs" />
+    <Compile Remove="GradeBook.Test\GradeBookTest.cs" />
+    <Compile Remove="GradeBook.Test\BookTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="GradeBook.Test\obj\Debug\netcoreapp3.1\GradeBook.Test.assets.cache" />
+    <None Remove="GradeBook.Test\obj\GradeBook.Test.csproj.nuget.g.props" />
+    <None Remove="GradeBook.Test\obj\GradeBook.Test.csproj.nuget.g.targets" />
+    <None Remove="GradeBook.Test\obj\project.assets.json" />
+    <None Remove="GradeBook.Test\obj\GradeBook.Test.csproj.nuget.dgspec.json" />
+    <None Remove="GradeBook.Test\obj\project.nuget.cache" />
+  </ItemGroup>
 </Project>

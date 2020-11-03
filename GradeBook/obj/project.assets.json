@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/antonbrannstrom/Desktop/GradeBookProject/GradeBook/GradeBook.csproj",
+      "projectUniqueName": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "/Users/antonbrannstrom/Desktop/GradeBookProject/GradeBook/GradeBook.csproj",
+      "projectPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/GradeBook.csproj",
       "packagesPath": "/Users/antonbrannstrom/.nuget/packages/",
-      "outputPath": "/Users/antonbrannstrom/Desktop/GradeBookProject/GradeBook/obj/",
+      "outputPath": "/Users/antonbrannstrom/Projects/GradeBookProject/GradeBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/antonbrannstrom/.nuget/NuGet/NuGet.Config"
