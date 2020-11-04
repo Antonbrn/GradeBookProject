@@ -16,4 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GradeBook.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove=".DS_Store" />
+  </ItemGroup>
 </Project>

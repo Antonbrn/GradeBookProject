@@ -2,9 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="GradeBook.Test/BookTest.cs" Line="21" Column="44" />
-      <File FileName="Book.cs" Line="29" Column="43" />
-      <File FileName="Program.cs" Line="16" Column="44" />
+      <File FileName="Book.cs" Line="26" Column="10" />
+      <File FileName="Program.cs" Line="15" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,10 +21,8 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>GradeBookTest/GradeBookTest.csproj</String>
-    <String>GradeBook.Test/GradeBook.Test.csproj</String>
   </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.GradeBook.Test FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
